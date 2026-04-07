@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO_NAME/blob/main/ELAD_SVDSR_Demo_KayesBinYousuf.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/01780565306/ELAD-SVDSR-Demo/blob/main/ELAD_SVDSR_Demo_KayesBinYousuf.ipynb)
 
 # ELAD-SVDSR: Cross-Device Deepfake Detection
 
